@@ -1,6 +1,6 @@
 Project Overview
 
-This project provides a RESTful API for managing conference hall bookings and calculating rental costs. The system allows clients to search for available rooms based on their capacity and booking times, make bookings with additional services, and manage room data. It is designed to be clean, scalable, and secure, following principles from Robert C. Martin's "Clean Code."
+This project provides a RESTful API for managing conference hall bookings and calculating rental costs. The system allows clients to search for available rooms based on their capacity and booking times, make bookings with additional services, and manage room data.
 Technical Solutions
 
 Multi-Layer Architecture: The project is structured using a multi-layered approach, ensuring separation of concerns and scalability.
