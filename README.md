@@ -21,7 +21,7 @@ Prerequisites
     
 Steps to Deploy:
 Clone the repository:
-git clone [https://github.com/your-repo-link.git](https://github.com/lichkun/HallManagmentAPI)
+git clone (https://github.com/lichkun/HallManagmentAPI)
 cd your-project-folder
 
 Build and run the Docker containers:
