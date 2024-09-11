@@ -1,0 +1,15 @@
+D:\Documents\Рабочий стол\BackendTZ\BackendTZ.Application\bin\Debug\net8.0\BackendTZ.Application.deps.json
+D:\Documents\Рабочий стол\BackendTZ\BackendTZ.Application\bin\Debug\net8.0\BackendTZ.Application.dll
+D:\Documents\Рабочий стол\BackendTZ\BackendTZ.Application\bin\Debug\net8.0\BackendTZ.Application.pdb
+D:\Documents\Рабочий стол\BackendTZ\BackendTZ.Application\bin\Debug\net8.0\BackendTZ.Core.dll
+D:\Documents\Рабочий стол\BackendTZ\BackendTZ.Application\bin\Debug\net8.0\BackendTZ.Core.pdb
+D:\Documents\Рабочий стол\BackendTZ\BackendTZ.Application\obj\Debug\net8.0\BackendTZ.Application.csproj.AssemblyReference.cache
+D:\Documents\Рабочий стол\BackendTZ\BackendTZ.Application\obj\Debug\net8.0\BackendTZ.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Рабочий стол\BackendTZ\BackendTZ.Application\obj\Debug\net8.0\BackendTZ.Application.AssemblyInfoInputs.cache
+D:\Documents\Рабочий стол\BackendTZ\BackendTZ.Application\obj\Debug\net8.0\BackendTZ.Application.AssemblyInfo.cs
+D:\Documents\Рабочий стол\BackendTZ\BackendTZ.Application\obj\Debug\net8.0\BackendTZ.Application.csproj.CoreCompileInputs.cache
+D:\Documents\Рабочий стол\BackendTZ\BackendTZ.Application\obj\Debug\net8.0\BackendTZ.Application.csproj.CopyComplete
+D:\Documents\Рабочий стол\BackendTZ\BackendTZ.Application\obj\Debug\net8.0\BackendTZ.Application.dll
+D:\Documents\Рабочий стол\BackendTZ\BackendTZ.Application\obj\Debug\net8.0\refint\BackendTZ.Application.dll
+D:\Documents\Рабочий стол\BackendTZ\BackendTZ.Application\obj\Debug\net8.0\BackendTZ.Application.pdb
+D:\Documents\Рабочий стол\BackendTZ\BackendTZ.Application\obj\Debug\net8.0\ref\BackendTZ.Application.dll

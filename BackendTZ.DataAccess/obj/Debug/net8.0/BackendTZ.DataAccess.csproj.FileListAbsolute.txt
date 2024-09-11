@@ -1,0 +1,17 @@
+D:\Documents\Рабочий стол\BackendTZ\BackendTZ.DataAccess\bin\Debug\net8.0\BackendTZ.DataAccess.deps.json
+D:\Documents\Рабочий стол\BackendTZ\BackendTZ.DataAccess\bin\Debug\net8.0\BackendTZ.DataAccess.runtimeconfig.json
+D:\Documents\Рабочий стол\BackendTZ\BackendTZ.DataAccess\bin\Debug\net8.0\BackendTZ.DataAccess.dll
+D:\Documents\Рабочий стол\BackendTZ\BackendTZ.DataAccess\bin\Debug\net8.0\BackendTZ.DataAccess.pdb
+D:\Documents\Рабочий стол\BackendTZ\BackendTZ.DataAccess\bin\Debug\net8.0\BackendTZ.Core.dll
+D:\Documents\Рабочий стол\BackendTZ\BackendTZ.DataAccess\bin\Debug\net8.0\BackendTZ.Core.pdb
+D:\Documents\Рабочий стол\BackendTZ\BackendTZ.DataAccess\obj\Debug\net8.0\BackendTZ.DataAccess.csproj.AssemblyReference.cache
+D:\Documents\Рабочий стол\BackendTZ\BackendTZ.DataAccess\obj\Debug\net8.0\BackendTZ.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Рабочий стол\BackendTZ\BackendTZ.DataAccess\obj\Debug\net8.0\BackendTZ.DataAccess.AssemblyInfoInputs.cache
+D:\Documents\Рабочий стол\BackendTZ\BackendTZ.DataAccess\obj\Debug\net8.0\BackendTZ.DataAccess.AssemblyInfo.cs
+D:\Documents\Рабочий стол\BackendTZ\BackendTZ.DataAccess\obj\Debug\net8.0\BackendTZ.DataAccess.csproj.CoreCompileInputs.cache
+D:\Documents\Рабочий стол\BackendTZ\BackendTZ.DataAccess\obj\Debug\net8.0\BackendTZ.DataAccess.csproj.CopyComplete
+D:\Documents\Рабочий стол\BackendTZ\BackendTZ.DataAccess\obj\Debug\net8.0\BackendTZ.DataAccess.dll
+D:\Documents\Рабочий стол\BackendTZ\BackendTZ.DataAccess\obj\Debug\net8.0\refint\BackendTZ.DataAccess.dll
+D:\Documents\Рабочий стол\BackendTZ\BackendTZ.DataAccess\obj\Debug\net8.0\BackendTZ.DataAccess.pdb
+D:\Documents\Рабочий стол\BackendTZ\BackendTZ.DataAccess\obj\Debug\net8.0\BackendTZ.DataAccess.genruntimeconfig.cache
+D:\Documents\Рабочий стол\BackendTZ\BackendTZ.DataAccess\obj\Debug\net8.0\ref\BackendTZ.DataAccess.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OSe3hEH8z6/it5TAt12akof3+ul2vpyAAHSYK/JxNLnX05BH0PXdqXiJjJdtDUL+S51yxLiNRyqIAAjzOehUow==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\Рабочий стол\\BackendTZ\\BackendTZ.Application\\BackendTZ.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikit\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.7.3\\swashbuckle.aspnetcore.swagger.6.7.3.nupkg.sha512"
+  ],
+  "logs": []
+}

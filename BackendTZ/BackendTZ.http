@@ -1,0 +1,6 @@
+@BackendTZ_HostAddress = http://localhost:5107
+
+GET {{BackendTZ_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
